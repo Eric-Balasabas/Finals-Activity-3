@@ -3,7 +3,7 @@
 <body>
 
 <form method="get" action="">
-    Name: <input type="text" name="name">
+    Full Name: <input type="text" name="name">
     <input type="submit">
 </form>
 
